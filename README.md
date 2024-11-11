@@ -7,3 +7,5 @@ The `./piped-piper` folder contains artifacts for the fictional start up company
 ### HR Policy Documents
 The `documents` folder contains a series of PDF files describing the HR policies of Piped Piper.
 
+## Agent Page
+The `agent-page.html` file contains the HTML used for an Agent page.
