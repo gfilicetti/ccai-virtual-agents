@@ -1,5 +1,5 @@
 # Introduction to Conversational Agents gHack - Support Repository
-This repository contains supporting documents and code for the [Introduction to Conversational Agents gHack](https://ghacks.dev/hacks/ces-agents-intro/)
+This repository contains supporting documents and code for the [Introduction to Conversational Agents gHack](https://ghacks.dev/hacks/conv-agents-intro/)
 
 ## Piped Piper
 The `./piped-piper` folder contains artifacts for the fictional start up company called **Piped Piper**.
